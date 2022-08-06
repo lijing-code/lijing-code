@@ -1,5 +1,7 @@
 <h1 align="center">Hi, Welcome to My Github 🌹</h1>
-<h3 align="center">💻 Seeking a software developer related Intern position, focus on but not limit to Full-Stack
+<h3 align="center">💻 Seeking a software developer related Intern position,
+                      <br>
+                      focus on but not limit to Full-Stack
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijing-code&label=Profile%20views&color=c507b5&style=plastic" alt="lijing-code" /> </p>
