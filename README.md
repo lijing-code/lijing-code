@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijing-code&label=Profile%20views&color=c507b5&style=plastic" alt="lijing-code" /> </p>
 
-- 👩🏻‍🎓 I am currently pursuing a bachelor's degree in CS at Western Govener University
+- 👩🏻‍🎓 I am currently pursuing a bachelor's degree in CS at Western Governors University
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently self-learning **Java** for my upcoming interviews
 
 - 👨‍💻 All of my projects are available at [jing.page](https://lijing-code.github.io/Personal-Page/)
 
