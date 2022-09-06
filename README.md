@@ -36,4 +36,4 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 </br> 
-![Leetcode Stats](https://leetcard.lijing-code/lijing-code)
+![Leetcode Stats]([https://leetcard.lijing-code/lijing-code](https://leetcode.card.workers.dev/lijing-code?theme=unicorn&font=baloo&extension=null))
