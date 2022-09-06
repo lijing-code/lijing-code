@@ -36,5 +36,5 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 </br> 
-<img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn" width="400"/>
+<img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/lijing900913?theme=light,unicorn" />
 
