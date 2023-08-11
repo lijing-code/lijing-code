@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijing-code&label=Profile%20views&color=c507b5&style=plastic" alt="lijing-code" /> </p>
 
-- 👩🏻‍🎓 I am currently pursuing a bachelor's degree in CS at Western Governors University
+- 👩🏻‍🎓 I am currently pursuing a master's degree in CS at Fairleigh Dickson University
 
 - 🌱 I’m currently self-learning **Java** for my upcoming interviews
 
